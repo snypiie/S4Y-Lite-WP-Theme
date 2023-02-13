@@ -1,2 +1,2 @@
-# S4Y-Lite-WP-Theme
+# S4Y, Lightweight theme for Wordpress
 Lightweight theme for wordpress (using Genesis Framework)
